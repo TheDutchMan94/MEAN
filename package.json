@@ -1,0 +1,30 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "mean stack qa blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDutchMan94/MEAN.git"
+  },
+  "keywords": [
+    "git",
+    "mean",
+    "stack",
+    "blog",
+    "qa"
+  ],
+  "author": "Abrham Yifter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDutchMan94/MEAN/issues"
+  },
+  "homepage": "https://github.com/TheDutchMan94/MEAN#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
