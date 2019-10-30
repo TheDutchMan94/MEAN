@@ -25,6 +25,6 @@
   "homepage": "https://github.com/TheDutchMan94/MEAN#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "mongoose": "^4.13.0"
+    "mongoose": "^5.7.7"
   }
 }
